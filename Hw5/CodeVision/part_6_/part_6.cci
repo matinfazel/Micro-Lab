@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:5483BBF0
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:27 "headers.h"
+NODE:V LEVEL:0 LINE:28 "duty_cycle -> R4,R5"
+NODE:V LEVEL:0 LINE:29 "temp_counter -> R6,R7"
+NODE:V LEVEL:0 LINE:30 "rpm_counter -> R8,R9"
+NODE:V LEVEL:0 LINE:31 "direction -> R10,R11"
+NODE:V LEVEL:0 LINE:32 "speed -> R12,R13"
+NODE:V LEVEL:0 LINE:33 "temp_str -> RAM:????"
+NODE:F LEVEL:0 LINE:35 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:42 "timer2_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:51 "main(void)"

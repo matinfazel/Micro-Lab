@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:548ABB96
+NODE:M LEVEL:0 LINE:2 "__headers_INCLUDE__"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:5 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\math.h"

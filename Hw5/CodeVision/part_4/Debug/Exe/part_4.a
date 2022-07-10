@@ -1,0 +1,52 @@
+;/*******************************************************
+;This program was created by the
+;CodeWizardAVR V3.12 Advanced
+;Automatic Program Generator
+;© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
+;http://www.hpinfotech.com
+;
+;Project :
+;Version :
+;Date    : 03/04/2022
+;Author  :
+;Company :
+;Comments:
+;
+;
+;Chip type               : ATmega16
+;Program type            : Application
+;AVR Core Clock frequency: 8/000000 MHz
+;Memory model            : Small
+;External RAM size       : 0
+;Data Stack size         : 256
+;*******************************************************/
+;
+;
+;// Alphanumeric LCD functions
+;#include <headers.h>
+;
+;// Declare your global variables here
+;
+;void main(void)
+; 0000 001F {
+
+	.CSEG
+;PCODE: $00000000 VOL: 0
+; 0000 0020 
+; 0000 0021 //lcd_init(16);
+; 0000 0022 initial_ports_timers();
+;PCODE: $00000001 VOL: 0
+; 0000 0023 func4();
+;PCODE: $00000002 VOL: 0
+; 0000 0024 while (1)
+;PCODE: $00000003 VOL: 0
+; 0000 0025       {
+; 0000 0026       // Place your code here
+; 0000 0027 
+; 0000 0028       }
+;PCODE: $00000004 VOL: 0
+;PCODE: $00000005 VOL: 0
+; 0000 0029 }
+;PCODE: $00000006 VOL: 0
+;PCODE: $00000007 VOL: 0
+;PCODE: $00000008 VOL: 0

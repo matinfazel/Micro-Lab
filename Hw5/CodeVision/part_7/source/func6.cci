@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:548ABB91
+NODE:I LEVEL:0 LINE:1 ".\source\var6.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:5 "C:\cvavr\inc\math.h"
+NODE:F LEVEL:0 LINE:6 "func3_6(void)"
+NODE:F LEVEL:0 LINE:17 "func5_6(void)"
+NODE:F LEVEL:0 LINE:119 "init_timer_ports_6(void)"

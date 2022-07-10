@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:5483B90F
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "headers.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:28 "temp -> R4,R5"
+NODE:V LEVEL:0 LINE:29 "rpm -> R6,R7"
+NODE:V LEVEL:0 LINE:30 "dir -> R8,R9"
+NODE:V LEVEL:0 LINE:31 "speed -> R10,R11"
+NODE:V LEVEL:0 LINE:32 "lcd_str -> RAM:????"
+NODE:F LEVEL:0 LINE:34 "timer2_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:43 "main(void)"
