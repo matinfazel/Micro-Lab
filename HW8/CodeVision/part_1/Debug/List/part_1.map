@@ -1,0 +1,38 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+glcd_state                                                                        0x0160      29
+ks0108_coord                                                                      0x017D       3
+_seed                                                                             0x0180       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+r                                                                                 R4,R5        2
+c                                                                                 R6,R7        2
+x                                                                                 R8,R9        2
+y                                                                                 R10,R11      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0016F     34
+ks0108_enable_G100                                                                0x00191      4
+ks0108_disable_G100                                                               0x00195      4
+ks0108_rdbus_G100                                                                 0x00199      7
+ks0108_busy_G100                                                                  0x001A0     25
+ks0108_wrcmd_G100                                                                 0x001B9      6
+ks0108_setloc_G100                                                                0x001BF     18
+ks0108_gotoxp_G100                                                                0x001D1     15
+ks0108_nextx_G100                                                                 0x001E0     21
+ks0108_wrdata_G100                                                                0x001F5      9
+glcd_init                                                                         0x001FE    101
+glcd_clear                                                                        0x00263     38
+glcd_clipx                                                                        0x00289     18
+glcd_clipy                                                                        0x0029B     18
+glcd_moveto                                                                       0x002AD     13
+memset                                                                            0x002BA     16

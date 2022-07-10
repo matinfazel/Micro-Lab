@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:54BCAD35
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\glcd.h"
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\font5x7.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\math.h"
+NODE:V LEVEL:0 LINE:14 "tmpx -> R4,R5"
+NODE:V LEVEL:0 LINE:15 "tmpy -> R6,R7"
+NODE:V LEVEL:0 LINE:16 "second -> R8,R9"
+NODE:V LEVEL:0 LINE:17 "minute -> R10,R11"
+NODE:V LEVEL:0 LINE:18 "hour -> R12,R13"
+NODE:F LEVEL:0 LINE:26 "main(void)"
+NODE:F LEVEL:0 LINE:98 "q3(void)"

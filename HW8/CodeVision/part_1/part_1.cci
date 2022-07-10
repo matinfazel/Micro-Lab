@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:54BCA194
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\glcd.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\font5x7.h"
+NODE:I LEVEL:0 LINE:11 "C:\cvavr\inc\delay.h"
+NODE:C LEVEL:0 LINE:13 "data -> FLASH"
+NODE:V LEVEL:0 LINE:20 "r -> R4,R5"
+NODE:V LEVEL:0 LINE:21 "c -> R6,R7"
+NODE:V LEVEL:0 LINE:22 "x -> R8,R9"
+NODE:V LEVEL:0 LINE:23 "y -> R10,R11"
+NODE:F LEVEL:0 LINE:26 "main(void)"
+NODE:F LEVEL:0 LINE:103 "question1(void)"
+NODE:F LEVEL:0 LINE:130 "writing(void)"
