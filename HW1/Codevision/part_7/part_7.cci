@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:5453830D
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:C LEVEL:0 LINE:4 "digit -> FLASH"
+NODE:F LEVEL:0 LINE:14 "main(void)"
+NODE:F LEVEL:0 LINE:29 "one(void)"
+NODE:F LEVEL:0 LINE:44 "two(void)"
+NODE:F LEVEL:0 LINE:58 "three(void)"
+NODE:F LEVEL:0 LINE:69 "four(void)"
+NODE:F LEVEL:0 LINE:87 "five(void)"
+NODE:F LEVEL:0 LINE:120 "six(void)"

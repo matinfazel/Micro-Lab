@@ -1,0 +1,28 @@
+#include <mega16.h>
+#include <delay.h>
+
+void light(void)
+{
+    int counter;   
+    DDRB = 0xFF; 
+    PORTB = 0x80;
+    counter = 0;
+    while(counter != 3000){
+              PORTB = PORTB>>1;     
+              if(PORTB == 0x00)
+                PORTB =  0x80;
+              delay_ms(50);
+              counter += 50;
+    }
+    return;
+
+}
+
+void main(void)
+{
+
+while (1)
+      {
+        light();
+      }
+}

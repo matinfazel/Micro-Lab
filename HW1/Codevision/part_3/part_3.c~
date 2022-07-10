@@ -1,0 +1,20 @@
+#include <mega16.h>
+
+void port_a(void)
+{
+ DDRA = 0x00;
+ DDRB = 0xFF;
+ char data = PINA;
+ PORTB = data;
+
+
+}
+void main(void)
+{
+
+while (1)
+      {
+        port_a();
+
+      }
+}
