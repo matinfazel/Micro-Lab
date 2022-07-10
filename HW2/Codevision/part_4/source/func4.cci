@@ -1,0 +1,3 @@
+VERSION:3 SOURCE_TIMESTAMP:5453A195
+NODE:I LEVEL:0 LINE:1 ".\source\myheaders.h"
+NODE:F LEVEL:0 LINE:3 "func4(void)"

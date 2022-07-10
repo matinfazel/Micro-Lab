@@ -1,0 +1,11 @@
+#include <myheaders.h>
+
+void main(void)
+{
+       func3(0x07,500);
+while (1)
+    {
+
+
+    }
+}

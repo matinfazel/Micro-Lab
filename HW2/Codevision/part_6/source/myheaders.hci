@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:54646297
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:3 ".\source\headers.h"
+NODE:M LEVEL:0 LINE:6 "_myheaders_INCLUDED_"
+NODE:M LEVEL:0 LINE:8 "portA"
+NODE:M LEVEL:0 LINE:9 "portB"
+NODE:M LEVEL:0 LINE:10 "portC"
+NODE:M LEVEL:0 LINE:11 "portD"

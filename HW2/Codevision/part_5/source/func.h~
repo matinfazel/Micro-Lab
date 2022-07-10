@@ -1,0 +1,10 @@
+#ifndef _func_INCLUDED_
+#define _func_INCLUDED_
+
+void func2(unsigned int port_out,unsigned data);
+char func1(unsigned int port_in);
+void seven_seg_display (int data, int data_port, int enable_data);
+flash unsigned char digit[] = {0x3f,0x06,0x5B,0x4f,0x66,0x6D,0x7D,0x07,
+                                 0x7F,0x6F};
+#endif
+

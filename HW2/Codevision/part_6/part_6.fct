@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"part_6.c" LINE:3
+func6 DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"source\func6.c" LINE:3
+seven_seg_display DSTACK_USAGE:17 DSTACK_LEVEL:17 FILE:"source\seven_seg_display.c" LINE:3
+func2 DSTACK_USAGE:4 DSTACK_LEVEL:21 FILE:"source\func2.c" LINE:3

@@ -1,0 +1,17 @@
+
+#include <mega16.h>
+#include <delay.h>
+#include <func.h>
+
+#ifndef _myheaders_INCLUDED_
+#define _myheaders_INCLUDED_
+
+
+#define portA 1
+#define portB 2
+#define portC 3
+#define portD 4
+
+flash unsigned char digit[] = {0x3f,0x06,0x5B,0x4f,0x66,0x6D,0x7D,0x07,
+                                 0x7F,0x6F};
+#endif
