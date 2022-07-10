@@ -1,0 +1,4 @@
+#ifndef _interupt_0_INCLUDED_
+#define _interupt_0_INCLUDED_
+void times_ports_init(void);
+#endif 

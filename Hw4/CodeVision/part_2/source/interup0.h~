@@ -1,0 +1,6 @@
+#ifndef _interup_0_INCLUDED_
+#define _interup_0_INCLUDED_
+
+void interupt_0(void);
+
+#endif 
